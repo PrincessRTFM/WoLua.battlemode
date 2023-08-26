@@ -1,7 +1,7 @@
 # Requires WoLua
 This is a [WoLua](https://github.com/PrincessRTFM/WoLua) command script for FFXIV. You will need to install the WoLua plugin via Dalamud (instructions at link) in order to use it.
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/PrincessRTFM/WoLua.battlemode/master?label=updated)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/PrincessRTFM/WoLua.battlemode/main?label=updated)
 [![GitHub issues](https://img.shields.io/github/issues-raw/PrincessRTFM/WoLua.battlemode?label=known%20issues)](https://github.com/PrincessRTFM/WoLua.battlemode/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 
 [![Support me!](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V7IK9UU)
