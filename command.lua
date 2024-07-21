@@ -17,13 +17,13 @@ end
 local function check()
 	if Game.Player.Mounted then
 		Game.Toast.Error("You can't draw your weapon while mounted.")
+		return
 	elseif Game.Player.InCombat and Game.Dalamud.HasPlugin("Reset-dummy-enmity-command") then
 		Game.SendChat("/resetenmityall")
 		Script.QueueDelay(1000)
 		Script.QueueAction(core)
-	else
-		core()
 	end
+	core()
 end
 
 Script(check)
